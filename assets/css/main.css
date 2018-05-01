@@ -1699,6 +1699,8 @@
 	.image {
 		display: inline-block;
 		border: 0;
+		margin-bottom: 10px;
+		margin: auto;
 	}
 
 		.image img {
@@ -2183,7 +2185,7 @@
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/arizona-night.jpg");
 			}
 
 			#main > section.two {
